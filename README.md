@@ -4,7 +4,7 @@ This portfolio showcases SQL projects focused on healthcare data analysis, opera
 
 ## Projects
 
-### Provider Productivity Dashboard
+### [Provider Productivity Dashboard](./Provider-Productivity-Dashboard)
 
 Analyzes fictional provider and patient visit data to evaluate provider productivity, appointment volume, and visit completion rates.
 
@@ -18,13 +18,12 @@ Analyzes fictional provider and patient visit data to evaluate provider producti
 **SQL techniques demonstrated:**
 - LEFT JOIN
 - GROUP BY
-- Aggregate functions (`COUNT`, `SUM`)
-- `CASE` statements
+- Aggregate functions
+- CASE statements
 - Date functions
-- `NULLIF`
-- Percentage calculations
+- NULL handling
 
-[View the Provider Productivity Dashboard project](./Provider-Productivity-Dashboard/)
+➡️ [View the full Provider Productivity Dashboard project](./Provider-Productivity-Dashboard)
 
 ## Skills Demonstrated
 
