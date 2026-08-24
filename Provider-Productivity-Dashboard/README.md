@@ -6,6 +6,10 @@ This project analyzes fictional healthcare visit data to evaluate provider produ
 
 The project was designed to demonstrate practical SQL skills applicable to healthcare analytics, operational reporting, and performance analysis.
 
+## Dashboard Preview
+
+![Provider Productivity Dashboard](provider_productivity_dashboard.png)
+
 ## Business Questions
 
 This analysis answers the following questions:
