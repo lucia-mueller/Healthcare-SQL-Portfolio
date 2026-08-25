@@ -4,6 +4,23 @@ This portfolio showcases SQL projects focused on healthcare data analysis, opera
 
 ---
 
+## Featured Project
+
+### ⭐ [Value-Based Care Quality Analysis](https://github.com/lucia-mueller/Healthcare-SQL-Portfolio/tree/main/Value-Based-Care-Quality-Analysis)
+
+Healthcare quality analytics project examining care-gap completion, patient risk, provider performance, and clinic-level quality improvement opportunities.
+
+**Highlights:**
+- Identifies high-risk patients with unresolved quality gaps
+- Compares quality performance across providers and clinics
+- Prioritizes clinic-specific quality improvement opportunities
+- Uses CTEs, conditional aggregation, multi-table JOINs, and DENSE_RANK(). 
+- Translates SQL results into actionable value-based care insights
+
+➡️ [View the full project](https://github.com/lucia-mueller/Healthcare-SQL-Portfolio/tree/main/Value-Based-Care-Quality-Analysis)
+
+---
+
 ## Projects
 
 ### 1. [Provider Productivity Dashboard](https://github.com/lucia-mueller/Healthcare-SQL-Portfolio/tree/main/Provider-Productivity-Dashboard)
